@@ -1,14 +1,22 @@
 name: "docs"
 navbar:
   title: ""
+  type: inverse
   left:
     - text: ""
       icon: fa-home fa-lg
       href: index.html
     - text: "Projects"
       href: projects.html
+  right:
+    - text: ""
+      icon: fa-twitter fa-lg
+      href: https://twitter.com/mark_scheuerell
+    - text: ""
+      icon: fa-github fa-lg
+      href: https://github.com/mdscheuerell
 output_dir: "docs"
 output:
   html_document:
-    theme: cosmo
+    theme: spacelab
     highlight: textmate

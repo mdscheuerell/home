@@ -7,7 +7,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-I’m an applied ecologist at [NOAA](http://www.noaa.gov)‘s [Northwest Fisheries Science Center](https://www.nwfsc.noaa.gov/), and an Affiliate Associate Professor in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/.
+***
+![](images/church_pano_wide.jpg)
+
+***
+
+# About me
+
+I’m an applied ecologist at [NOAA](http://www.noaa.gov)‘s [Northwest Fisheries Science Center](https://www.nwfsc.noaa.gov/), and an Affiliate Associate Professor in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
 My research focuses primarily on analyses of complex, multivariate data sets; some of this work is retrospective, but much of it is specifically aimed at forecasting future dynamics. Examples include studies of Pacific salmon, California kelp forest ecosystems, and Caribbean reef fishes.
 
