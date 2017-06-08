@@ -1,0 +1,14 @@
+name: "docs"
+navbar:
+  title: ""
+  left:
+    - text: ""
+      icon: fa-home fa-lg
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
