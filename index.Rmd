@@ -1,6 +1,8 @@
 ---
 title: "Mark D. Scheuerell"
-output: html_document
+output:
+  html_document:
+    css: "custom_page.css"
 ---
 
 ```{r setup, include=FALSE}
@@ -12,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ***
 
-# About me
+## About me
 
 I’m an applied ecologist at [NOAA](http://www.noaa.gov)‘s [Northwest Fisheries Science Center](https://www.nwfsc.noaa.gov/), and an Affiliate Associate Professor in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
