@@ -6,8 +6,12 @@ navbar:
     - text: ""
       icon: fa-home fa-lg
       href: index.html
-    - text: "Projects"
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
       href: projects.html
+    - text: "CV"
+      href: CV.html
   right:
     - text: ""
       icon: fa-twitter fa-lg

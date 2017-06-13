@@ -1,24 +1,24 @@
 ---
-title: "Mark D. Scheuerell"
 output:
   html_document:
-    css: "custom_page.css"
+    css: "custom_front_page.css"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-***
-![](images/church_pano_wide.jpg)
+# Mark Scheuerell
 
 ***
-
-## About me
 
 I’m an applied ecologist at [NOAA](http://www.noaa.gov)‘s [Northwest Fisheries Science Center](https://www.nwfsc.noaa.gov/), and an Affiliate Associate Professor in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
-My research focuses primarily on analyses of complex, multivariate data sets; some of this work is retrospective, but much of it is specifically aimed at forecasting future dynamics. Examples include studies of Pacific salmon, California kelp forest ecosystems, and Caribbean reef fishes.
+My research focuses primarily on analyses of complex, multivariate data sets; some of this work is retrospective, but much of it is specifically aimed at forecasting future dynamics. Examples include studies of Pacific salmon, California kelp forests, and Caribbean reef fishes.
 
 I advise post-docs and serve on graduate student committees in both formal and informal roles. Please contact me if you would like to discuss your research ideas.
+
+***
+
+![](images/church_pano_wide.jpg)
 

@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+output:
+  html_document:
+    css: "custom_page.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+I co-teach a variety of courses and workshops centered around using __R__ for time series analysis.

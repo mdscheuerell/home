@@ -1,0 +1,29 @@
+---
+title: "Curriculum vitae"
+output:
+  html_document:
+    css: "custom_page.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+You can view a pdf of my CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
+
+You can also find more information from the following sources:
+
+![](images/orcid_24.png) [orcid.org/0000-0002-8284-1254](https://orcid.org/0000-0002-8284-1254)
+
+
+[![](images/google_scholar.png)](https://scholar.google.com/citations?user=uwu1QikAAAAJ&hl=en&oi=ao)
+
+ 
+[![](images/impactstory.png)](https://impactstory.org/u/0000-0002-8284-1254) 
+
+
+[![](images/mendeley.png)](https://www.mendeley.com/profiles/mark-scheuerell/) 
+
+ 

@@ -1,4 +1,8 @@
 body {
   max-width: 800px;
   margin: auto;
-} 
+  border: solid 25px white;
+}
+p {
+  line-height: 2;
+}

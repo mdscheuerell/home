@@ -1,0 +1,12 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  border: solid 25px white;
+}
+img { 
+   padding:1px;
+   border:2px solid #6495ED;
+   background-color:#D3D3D3;
+   display: block;
+   margin: auto;
+}

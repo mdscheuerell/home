@@ -1,0 +1,14 @@
+---
+title: "Research"
+output:
+  html_document:
+    css: "custom_page.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+I am involved in many research projects, but most of them focus on the development and application of statistical methods for time series and spatial analyses.
