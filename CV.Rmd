@@ -12,8 +12,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-_You can find a pdf version of my CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf)_.
-
 ## Contact
 
 Fish Ecology Division  
@@ -50,6 +48,9 @@ Affiliate Associate Professor, School of Aquatic and Fishery Sciences, Universit
 __2007 - 2016__  
 Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington
 
+__2002 - 2003__  
+Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of Washington
+
 ## Fellowships
 
 National Research Council Postdoctoral Research Associateship (2003)
@@ -81,16 +82,19 @@ Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Z
 Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
 <p>
 
-## Other information
+## More information
 
-You can find more information about my professional activities from the following sources:
+You can find a more detailed version of my CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
 
-[![](images/orcid_logo.png)](https://orcid.org/0000-0002-8284-1254) 
+You can also find more information about my publications and professional activities from the following sources.
 
-[![](images/google_scholar.png)](https://scholar.google.com/citations?user=uwu1QikAAAAJ&hl=en&oi=ao)
+---------------------------------------  ---------------------------------------
+   [![](images/orcid_logo.png)][orc]       [![](images/impactstory.png)][imp] 
+ [![](images/google_scholar.png)][goo]      [![](images/mendeley.png)][men]   
+---------------------------------------  ---------------------------------------
 
-[![](images/impactstory.png)](https://impactstory.org/u/0000-0002-8284-1254) 
+[orc]: https://orcid.org/0000-0002-8284-1254
+[goo]: https://scholar.google.com/citations?user=uwu1QikAAAAJ&hl=en&oi=ao
+[imp]: https://impactstory.org/u/0000-0002-8284-1254
+[men]: https://www.mendeley.com/profiles/mark-scheuerell
 
-[![](images/mendeley.png)](https://www.mendeley.com/profiles/mark-scheuerell/) 
-
- 

@@ -10,3 +10,11 @@ p {
   text-indent:-30px;
   padding-left:30px
 }
+table {
+  margin: auto;
+}
+td {
+    padding: 20px;
+    margin: 0;
+    border: 0;
+}
