@@ -11,18 +11,12 @@ navbar:
       href: CV.html
     - text: "Find me"
       menu:
-        - text: "Email"
-          icon: fa-envelope fa-lg
-          href: mailto:mark.scheuerell@noaa.gov
         - text: "Twitter"
           icon: fa-twitter fa-lg
           href: https://twitter.com/mark_scheuerell
         - text: "GitHub"
           icon: fa-github fa-lg
           href: https://github.com/mdscheuerell
-        - text: "mdscheuerell"
-          icon: fa-skype fa-lg
-          href: ""
 output_dir: "docs"
 output:
   html_document:

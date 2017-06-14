@@ -12,11 +12,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-You can view a pdf of my CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
+_You can find a pdf version of my CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf)_.
 
-<br>
-
-## Address
+## Contact
 
 Fish Ecology Division  
 Northwest Fisheries Science Center  
@@ -25,28 +23,32 @@ National Oceanic and Atmospheric Administration
 2725 Montlake Blvd E  
 Seattle, WA 98112 USA
 
-206-302-2437 voice  
-206-860-3400 fax
+<i class="fa fa-envelope" aria-hidden="true"></i>\ [mark(dot)scheuerell(at)noaa(dot)gov](mailto:mark.scheuerell@noaa.gov)
+
+<i class="fa fa-skype" aria-hidden="true"></i> mdscheuerell
+
+<i class="fa fa-phone" aria-hidden="true"></i>\ \ 206-302-2437  
+
+<i class="fa fa-fax" aria-hidden="true"></i>\ 206-860-3400
 
 ## Education
 
-Ph.D. (2002) Zoology, University of Washington (advisor: DE Schindler)  
-M.S. (1995) Fishery and Aquatic Science, Cornell University (advisors: LG Rudstam & EL Mills)  
-B.S. (1991) Zoology, University of Wisconsin (advisors: JF Kitchell & SR Carpenter)  
+Ph.D., Zoology, University of Washington, 2002 (advisor: DE Schindler)  
 
-## Experience
+M.S., Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam & EL Mills)  
+
+B.S., Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell)  
+
+## Professional experience
 
 __2003 - present__  
-Research Fisheries Biologist, Northwest Fisheries Science Center, National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Seattle, Washington  
+Research Fisheries Biologist, NOAA Northwest Fisheries Science Center
 
 __2016 - present__  
-Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington, Seattle, Washington  
+Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington
 
 __2007 - 2016__  
-Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington, Seattle, Washington  
-
-__2002 - 2003__  
-Post-doctoral Fellow, National Research Council and NOAA Fisheries Service, Northwest Fisheries Science Center, Seattle, Washington  
+Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington
 
 ## Fellowships
 
@@ -56,7 +58,7 @@ Ford Foundation Fellowship in Environmental Science (2002)
 
 NSF Graduate Research Training Grant in Mathematical Biology (1999)  
 
-Electric Power Research Institute Fellowship in Fish Population Biology (1994-1995)
+Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 
 ## Awards & Honors
 
