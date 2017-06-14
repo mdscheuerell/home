@@ -1,0 +1,12 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  border: solid 25px white;
+}
+p {
+  line-height: 1.5;
+}
+.hang {
+  text-indent:-30px;
+  padding-left:30px
+}

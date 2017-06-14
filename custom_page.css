@@ -3,6 +3,7 @@ body {
   margin: auto;
   border: solid 25px white;
 }
-p {
-  line-height: 2;
+img {
+  display: block;
+  margin: auto;
 }
