@@ -86,7 +86,7 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 You can find a more detailed version of my CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
 
-You can also find more information about my publications and professional activities from the following sources.
+You can also find more information about my publications from theese sources.
 
 ---------------------------------------  ---------------------------------------
    [![](images/orcid_logo.png)][orc]       [![](images/impactstory.png)][imp] 
