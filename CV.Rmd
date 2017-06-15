@@ -82,11 +82,9 @@ Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Z
 Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
 <p>
 
-### More information
+### Publications
 
-You can find a more detailed version of my CV, including a list of publications, [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
-
-You can also find more information about my publications from theese sources.
+Click on any of the following sources for an up-to-date list of my publications, including links.
 
 ---------------------------------------  ---------------------------------------
    [![](images/orcid_logo.png)][orc]       [![](images/impactstory.png)][imp] 
@@ -97,4 +95,9 @@ You can also find more information about my publications from theese sources.
 [goo]: https://scholar.google.com/citations?user=uwu1QikAAAAJ&hl=en&oi=ao
 [imp]: https://impactstory.org/u/0000-0002-8284-1254
 [men]: https://www.mendeley.com/profiles/mark-scheuerell
+
+### More information
+
+You can find a more extensive version of my CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
+
 

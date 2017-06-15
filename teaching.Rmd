@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ***
 
-I co-teach a variety of courses and workshops centered around using __R__ for time series analysis.
+I co-teach a variety of courses and workshops centered around using __R__ for time series analysis. Here are some recent examples.
 
 During winter quarters of odd years, [Eli Holmes](https://faculty.washington.edu/eeholmes/), [Eric Ward](https://faculty.washington.edu/warde/), and I teach [_Applied Time Series Analysis in Fisheries and Environmental Sciences_](https://catalyst.uw.edu/workspace/fish203/35553/243766) (FISH 507) in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/). 
 

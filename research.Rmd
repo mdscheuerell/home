@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ***
 
-I am involved in a variety of research projects, most of which focus on the development and application of statistical methods for temporal and spatial data. I enjoy collaborating with lots of different people, particularly students and post-docs because I tend to learn a lot from them.
+I am involved in a variety of research projects, most of which focus on the development and application of statistical methods for temporal and spatial data. I enjoy collaborating with many different people, but particularly students and post-docs because I tend to learn a lot from them.
 
 ### Multivariate state-space models
 
