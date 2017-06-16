@@ -1,5 +1,5 @@
 body {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: auto;
   border: solid 25px white;
 }
@@ -7,8 +7,8 @@ p {
   line-height: 1.5;
 }
 .hang {
-  text-indent:-30px;
-  padding-left:30px
+  text-indent: -30px;
+  padding-left: 30px
 }
 table {
   margin: auto;
