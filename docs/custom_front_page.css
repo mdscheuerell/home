@@ -10,3 +10,6 @@ img {
    display: block;
    margin: auto;
 }
+p {
+  font-size: 110%;
+}

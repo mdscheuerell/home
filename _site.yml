@@ -2,24 +2,20 @@ name: "docs"
 navbar:
   title: "MARK SCHEUERELL"
   type: inverse
-  right:
+  left:
     - text: "Research"
       href: research.html
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
       href: CV.html
-    - text: "Find me"
-      menu:
-        - text: "Twitter"
-          icon: fa-twitter fa-lg
-          href: https://twitter.com/mark_scheuerell
-        - text: "GitHub"
-          icon: fa-github fa-lg
-          href: https://github.com/mdscheuerell
-        - text: "Elsewhere"
-          icon: fa-eye fa-lg
-          href: CV.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/mdscheuerell
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/mark_scheuerell
+    - icon: fa-envelope-o fa-lg
+      href: mailto:mark.scheuerell@noaa.gov
 output_dir: "docs"
 output:
   html_document:

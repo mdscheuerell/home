@@ -2,7 +2,7 @@
 title: "Teaching"
 output:
   html_document:
-    css: "custom_page.css"
+    css: "custom_page_teaching.css"
 ---
 
 ```{r setup, include=FALSE}
@@ -13,6 +13,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I co-teach a variety of courses and workshops centered around using __R__ for time series analysis. Here are some recent examples.
 
-During winter quarters of odd years, [Eli Holmes](https://faculty.washington.edu/eeholmes/), [Eric Ward](https://faculty.washington.edu/warde/), and I teach [_Applied Time Series Analysis in Fisheries and Environmental Sciences_](https://catalyst.uw.edu/workspace/fish203/35553/243766) (FISH 507) in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/). 
+### Applied Time Series Analysis in Fisheries & Environmental Sciences
 
-In March of 2014, [Eli Holmes](https://faculty.washington.edu/eeholmes/) and I taught [_Applied Times Series for Ecology_,](https://timeseriescourseemb.wordpress.com/) a weeklong short course in the [Department of Ecology, Environment and Plant Sciences](http://su.se/deep/english/) at [Stockholm University](http://www.su.se/english/).
+During winters of odd years, [Eli Holmes](https://faculty.washington.edu/eeholmes/), [Eric Ward](https://faculty.washington.edu/warde/), and I teach [_Applied Time Series Analysis in Fisheries and Environmental Sciences_](https://catalyst.uw.edu/workspace/fish203/35553/243766) (FISH 507), a 10-week long course in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/). 
+
+### Applied Times Series for Ecology
+
+In March of 2014, [Eli Holmes](https://faculty.washington.edu/eeholmes/) and I taught [_Applied Times Series for Ecology_](https://timeseriescourseemb.wordpress.com/), a weeklong short course in the [Department of Ecology, Environment and Plant Sciences](http://su.se/deep/english/) at [Stockholm University](http://www.su.se/english/).
